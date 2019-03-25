@@ -7,7 +7,7 @@ Provided are templates for **MIT's Bioengineering Thesis Proposal**. Depending o
 
 Here are the pros and cons for each strategy
 
-| One main file | Divide into pieces | Divide into **compilable** peices |
+| One main file | Divide into pieces | Divide into **compilable** pieces |
 | --- | --- | --- |
 | One main file to manage and edit | Multiple files to edit | Multiple files to edit |
 | Basic directory and file structure | Basic directory and complex file structure | Complex directory and complex file structure |
