@@ -1,7 +1,7 @@
 # TL;DR
 Provided are templates for **MIT's Bioengineering Thesis Proposal**. Depending on your comfort, and level of LaTeX fluency there are three ways to approach a document that requires a large amount of labor and planning.
 
-1. Write the entire latex document in one file: [template found here](https://github.com/mrsunny0/LaTeX-thesis-proposal/tree/master/Thesis%20Proposal-1-single_file).
+1. Write the entire latex document in one file: [template found here](https://github.com/MIT-BECL/LaTeX-thesis-proposal/tree/master/Thesis%20Proposal-1-single).
 2. Write the document piece-meal where parts of divided into sections that are then assembled into one major latex document: [template found here](https://github.com/mrsunny0/LaTeX-thesis-proposal/tree/master/Thesis%20Proposal-2-input).
 3. Modularly break your latex document into compilable parts that each produce their own document, these documents are then assembled into a main document: [template found here](https://github.com/mrsunny0/LaTeX-thesis-proposal/tree/master/Thesis%20Proposal-3-subfiles).
 
